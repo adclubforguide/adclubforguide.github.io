@@ -1,4 +1,5 @@
 {    
+    "privacy_url" : "https://www.google.com",
     "GPOnlyTraffic" : "false",
     "admob_only" : "false",
     "max_only" : "true",
