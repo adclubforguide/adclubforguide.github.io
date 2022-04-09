@@ -2,6 +2,8 @@
     "GPOnlyTraffic" : "false",
     "max_only" : "false",
     "taptap_only" : "true",
+    "taptaq_only" : "true",
+    "tapdaq_only" : "true",
     "max_banner_enable" : "false",
     "max_inter_enable" : "false",
     "max_native_enable" : "false",
