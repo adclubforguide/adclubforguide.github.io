@@ -24,5 +24,5 @@
     "movieslist" :"{ \"movie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
     "getEpisode" :"{ \"serieName\" : \".anime_top .left\" ,  \"controls\" : \".watch_player .control li\",  \"servers\" : \".list_episode_video .bottom .row\", \"serieURL\" : \".anime_top .right a\"}",
     "getSerie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\"}",
-    "getMovie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".mvi-content .desc\", \"data\" : \".mvic-info p\", \"dataKey\" : \"strong\", \"dataVal\" : \"a\",  \"serverAX\" : \"#server-ax .les-content\"}"
+    "getMovie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\"}"
 }
