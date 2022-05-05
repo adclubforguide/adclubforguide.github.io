@@ -1,7 +1,7 @@
 {
     "close" : "true",
-    "max_only" : "true",
-    "max_inter_enable" : "true",
+    "max_only" : "false",
+    "max_inter_enable" : "false",
     "max_inter_id": "4db2903fe50f3c51",
     "CurrentVersionCode" : "1",
     "options" : "English",
