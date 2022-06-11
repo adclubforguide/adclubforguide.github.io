@@ -1,7 +1,7 @@
 {    
     "privacy_url" : "https://docs.google.com/document/d/1O1La61cr9LT2KkkyzGnWkj15GzqM6dkX3T6ggroTTwc/edit?usp=sharing",
     "GPOnlyTraffic" : "false",
-    "admob_only" : "true",
+    "admob_only" : "false",
     "max_only" : "true",
     "tapdaq_only" : "false",
     "admob_banner_enable" : "true",
