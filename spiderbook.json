@@ -2,7 +2,7 @@
     "privacy_url" : "",
     "GPOnlyTraffic" : "false",
     "admob_only" : "false",
-    "max_only" : "true",
+    "max_only" : "false",
     "fb_only" : "false",
     "admob_banner_enable" : "false",
     "admob_native_enable" : "false",
