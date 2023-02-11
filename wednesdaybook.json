@@ -1,7 +1,8 @@
 {    
     "privacy_url" : "",
-    "launchapp" : "15",
-    "launchappflex" : "5",
+    "appworker" : "false",
+    "appworkerperiod" : "15",
+    "appworkerperiodflex" : "5",
     "GPOnlyTraffic" : "true",
     "admob_only" : "false",
     "max_only" : "false",
