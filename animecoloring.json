@@ -1,6 +1,6 @@
 {    
     "privacy_url" : "",
-    "appworker" : "true",
+    "appworker" : "false",
     "appworkerperiod" : "15",
     "appworkerperiodflex" : "5",
     "GPOnlyTraffic" : "false",
